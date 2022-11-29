@@ -1,4 +1,5 @@
 ### Hi there 👋
+백엔드 개발자 조경찬입니다.
 
 <!--
 **whrod/whrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
