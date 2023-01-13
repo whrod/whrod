@@ -20,11 +20,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 <br><br><br>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=whrod&theme=dark&hide_border=true&include_all_commits=false&count_private=true&card_width=300px) <br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=whrod&theme=dark&hide_border=true&size=300)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whrod&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- # 📊 GitHub Stats:
+ -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=whrod&theme=dark&hide_border=true&include_all_commits=false&count_private=true&card_width=300px) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whrod&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 </div>
 
