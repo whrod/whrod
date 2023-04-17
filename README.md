@@ -1,7 +1,7 @@
 
 <div align="center">
 
- # Hi there 👋<br>백엔드 개발자 조경찬입니다.<br><br>
+ # Hi there 👋<br>개발자 조경찬입니다.<br><br>
 
   
 # 📢 Contact:
